@@ -1,0 +1,22 @@
+undef_action: warn
+out: /mnt/production/compute-daemon/utils/my_analysis.sig_queryl1k_tool.63db7904b5a64600140e1e3e
+runtests: false
+rundemo: false
+rpt: ICIs test
+create_subdir: false
+verbose: true
+encode_url: false
+config: http://data.clue.io/api/ddh2003@outlook.com/results/Feb_02_2023/my_analysis.sig_queryl1k_tool.63db7904b5a64600140e1e3e/config.yaml
+up: http://data.clue.io/api/ddh2003%40outlook.com/results/Feb_02_2023/my_analysis.sig_queryl1k_tool.63db7904b5a64600140e1e3e/up.gmt
+down: http://data.clue.io/api/ddh2003%40outlook.com/results/Feb_02_2023/my_analysis.sig_queryl1k_tool.63db7904b5a64600140e1e3e/down.gmt
+score: /cmap/data/M2/level5_modz_n1165466x12328.gctx
+rank: /cmap/data/M2/level5_rank_bing_n1165466x10174.gctx
+sig_meta: /cmap/data/M2/siginfo.txt
+metric: wtcs
+es_tail: up
+query_meta: []
+ncs_group: []
+save_minimal: true
+save_digests: true
+exemplar_field: is_exemplar_sig
+max_col: 50000.0
